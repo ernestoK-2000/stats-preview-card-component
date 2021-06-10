@@ -69,7 +69,7 @@ The next solution was used for inverting the image with the card information for
 
 ### Continued development
 
-I want to focus more in responsiveness. Cellphones are used everywhere and a Mobile First Aprouch is definetly something I want to try out.
+I want to focus more in responsiveness. Cellphones are used everywhere and a Mobile First Approach is definitely something I want to try out.
 
 ### Useful resources
 

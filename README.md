@@ -76,7 +76,7 @@ I want to focus more in responsiveness. Cellphones are used everywhere and a Mob
 They help me in every project:
 
 - [Stack overflow](https://stackoverflow.com/) - For specific problems and questions.
-- [w3shools](https://www.w3schools.com/) - Useful documentation, examples and exercises you can try and modify.
+- [W3Shools](https://www.w3schools.com/) - Useful documentation, examples and exercises you can try and modify.
 - [MDN Web Docs](https://developer.mozilla.org/) - Amazing documentation for web developers
 
 ## Author
